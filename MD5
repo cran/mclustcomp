@@ -1,0 +1,16 @@
+774f3fbf2b79d248add55ab26990ba68 *DESCRIPTION
+91ae12e2bc500a197b4fd1c7ed357b8b *NAMESPACE
+338a3f860e9493c53b8d0721b0ec8bb7 *R/RcppExports.R
+faac428ea3f061bccab1ccf3afccc468 *R/auxiliary.R
+f3e984020b7b38e8f2055c9cffa54635 *R/mclustcomp.R
+1b2727175c8e9edef76d891dee2d8da0 *R/package-mclustcomp.R
+acfc9740d5a382344e1906d91232591e *man/get.commsize.Rd
+7d9057b671af23ab954834b26aaa9417 *man/get.confusion.Rd
+0270fbdf9958607e4e5ff7c38de54b53 *man/get.pair.Rd
+243c2874cc4b5c2afeab1a77c0b00fd3 *man/get.probs.Rd
+78521c4882e27bf1e81e1de056907b6e *man/mclustcomp.Rd
+c08f3af581aa39cf2123a93102daa32c *man/package-mclustcomp.Rd
+ea50cb190cfa66abc98cbaeda6e8e76f *src/Makevars
+ea50cb190cfa66abc98cbaeda6e8e76f *src/Makevars.win
+7fc53b7a1785e4d93d6a1c62c40d15f2 *src/RcppExports.cpp
+f3077f38ea1de3752d67d0a630ee0a11 *src/auxiliary.cpp
