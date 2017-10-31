@@ -159,7 +159,7 @@ List getprobs(NumericMatrix confmat, NumericVector scx, NumericVector scy, const
   }
 
   // 3. compute::3 measures
-  double log2 = log(2);
+  double log2 = log(2.0);
   double Hx = 0;
   for (int i=0;i<nk;i++){
     Hx -= Px[i]*log(Px[i])/log2;

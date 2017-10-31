@@ -1,4 +1,4 @@
-774f3fbf2b79d248add55ab26990ba68 *DESCRIPTION
+684f95d28e34f7d159f4ceacebccdc04 *DESCRIPTION
 91ae12e2bc500a197b4fd1c7ed357b8b *NAMESPACE
 338a3f860e9493c53b8d0721b0ec8bb7 *R/RcppExports.R
 faac428ea3f061bccab1ccf3afccc468 *R/auxiliary.R
@@ -13,4 +13,4 @@ c08f3af581aa39cf2123a93102daa32c *man/package-mclustcomp.Rd
 ea50cb190cfa66abc98cbaeda6e8e76f *src/Makevars
 ea50cb190cfa66abc98cbaeda6e8e76f *src/Makevars.win
 7fc53b7a1785e4d93d6a1c62c40d15f2 *src/RcppExports.cpp
-f3077f38ea1de3752d67d0a630ee0a11 *src/auxiliary.cpp
+953b8a7fc67cc6a89048885b06a95db0 *src/auxiliary.cpp
